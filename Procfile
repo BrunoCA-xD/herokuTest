@@ -1,1 +1,0 @@
-web: java -jar target/herokuTest-1.0.jar

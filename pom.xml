@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>br.cronote</groupId>
 	<artifactId>herokuTest</artifactId>
-	<version>1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>herokuTest</name>
 	<description></description>
